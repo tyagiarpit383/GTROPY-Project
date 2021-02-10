@@ -1,0 +1,47 @@
+
+.tablehead
+{
+  width: 600px;
+  height: 200px;
+  overflow: hidden;
+  overflow-y: scroll;
+  float: right;
+  padding-top: 40px;
+  position: relative;
+  display: inline-block;
+}
+.chart--container {
+  min-height: 530px;
+  width: 50%;
+  height: 50%;
+  align: left;
+  padding-top: 630px;
+  display: inline;
+}
+#myChart{
+  float: left;
+}
+
+.zc-ref {
+  display: none;
+}
+#chartd
+{
+  width: 50%;
+  display: inline-block;
+  clear: both;
+  float: left;
+}
+.mapData
+{
+  padding-top: 40px;
+}
+#MapOData
+{
+  padding-top: 40px;
+  color: blue;
+}
+#chartContainer
+{
+  padding-top: 200px;
+}
